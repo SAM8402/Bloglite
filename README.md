@@ -1,6 +1,5 @@
 # bloglitev2
 
-This is MAD2 project for jan Term of SAYAN GHOSH (21F1006567)
 
 to run the project do:
 
